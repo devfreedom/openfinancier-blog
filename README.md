@@ -1,2 +1,0 @@
-# openfinancier-blog
-OpenFinancier blog
